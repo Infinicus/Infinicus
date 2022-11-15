@@ -1,3 +1,6 @@
+<img align="center" src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
+<img align="center" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/infinicus?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+
 <h1 align="center">Hi 👋, I'm Infinicus</h1>
 <h3 align="center">A soon-to-be Information Engineer from Indonesia.</h3>
 
@@ -20,9 +23,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinicus&show_icons=true&locale=en&layout=compact" alt="infinicus" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=infinicus&" alt="infinicus" />
 </p>
-
-<img align="center" src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
-<img align="center" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/infinicus?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 <!---
 Infinicus/Infinicus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

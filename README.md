@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Cyber Security
 - 📫 You can reach me through my linkedin @gigahidjrikaaa
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" /> </p>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinicus&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,10 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinicus&show_icons=true&locale=en&layout=compact" alt="infinicus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinicus&show_icons=true&locale=en" alt="infinicus" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinicus&" alt="infinicus" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" /> </p>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/infinicus?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 <!---

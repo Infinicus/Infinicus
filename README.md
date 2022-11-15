@@ -18,13 +18,13 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinicus&show_icons=true&locale=en&layout=compact" alt="infinicus" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=infinicus&" alt="infinicus" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinicus&" alt="infinicus" />
 </p>
 
 
 ---
 
-<img align="center" src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
+<img align="left" src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
 <img align="center" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/infinicus?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 <!---

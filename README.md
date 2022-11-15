@@ -1,12 +1,27 @@
-# Hello There 
-- 👋 Hi, I’m @Infinicus (You can call me Infi or by my real name, Giga)
+<h1 align="center">Hi 👋, I'm Infinicus</h1>
+<h3 align="center">A soon-to-be Information Engineer from Indonesia.</h3>
+
 - 👀 I’m interested in Capture the Flag and Robotics
 - 🌱 I’m currently learning Cyber Security
 - 📫 You can reach me through my linkedin @gigahidjrikaaa
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" /> </p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinicus&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw?si=aac08b4d3e6c45c9)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gigahidjrikaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infinicus&show_icons=true&locale=en&layout=compact" alt="infinicus" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinicus&show_icons=true&locale=en" alt="infinicus" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinicus&" alt="infinicus" /></p>
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/infinicus?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 

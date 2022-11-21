@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning Cyber Security
 - 📫 You can reach me through my linkedin @gigahidjrikaaa
 
+---
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=infinicus&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gigahidjrikaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>

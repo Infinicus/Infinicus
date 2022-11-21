@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Infinicus</h1>
+<h1 align="center">Hi 👋, I'm Giga!</h1>
 <h3 align="center">A soon-to-be Information Engineer from Indonesia.</h3>
 
 - 👀 I’m interested in Capture the Flag and Robotics

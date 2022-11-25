@@ -6,15 +6,7 @@
 - 🌱 I’m currently learning Cyber Security
 - 📫 You can reach me through my linkedin @gigahidjrikaaa
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aczq88cnkrbukorcoqvna1zgg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=0300b8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aczq88cnkrbukorcoqvna1zgg&redirect=true)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gigahidjrikaaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gigahidjrikaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>
-</p>
 
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +19,14 @@
 </p>
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aczq88cnkrbukorcoqvna1zgg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=0300b8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aczq88cnkrbukorcoqvna1zgg&redirect=true)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gigahidjrikaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>
+</p>
 
 <img align="left" src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
 <img align="center" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/infinicus?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>

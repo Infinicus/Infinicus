@@ -25,9 +25,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigahidjrikaaa&" alt="infinicus" />
 </p>
   
----
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aczq88cnkrbukorcoqvna1zgg&cover_image=true&theme=novatorem&show_offline=false&background_color=181773&bar_color=7ea1f1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aczq88cnkrbukorcoqvna1zgg&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=0300b8&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aczq88cnkrbukorcoqvna1zgg&redirect=true)
 
 ---
 

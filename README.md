@@ -15,9 +15,10 @@
 ---
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigahidjrikaaa&show_icons=true&locale=en&layout=compact" alt="infinicus" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigahidjrikaaa&" alt="infinicus" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gigahidjrikaaa&" alt="infinicus" />
 </p>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gigahidjrikaaa&themke=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gigahidjrikaaa&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
 

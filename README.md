@@ -10,9 +10,11 @@
 <h3 align="center">A soon-to-be Information Engineer from Indonesia.</h3>
 
 ---
+<p align="center">
 - 👀 I’m interested in Capture the Flag and Robotics
 - 🌱 I’m currently learning Cyber Security
 - 📫 You can reach me through my linkedin @gigahidjrikaaa
+</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gigahidjrikaaa&theme=onedark&margin-w=15&margin-h=15&column=7" alt="infinicus" />

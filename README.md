@@ -18,6 +18,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gigahidjrikaaa&theme=onedark&margin-w=15&margin-h=15&column=7" alt="infinicus" />
 </div>
 
+<!-- Give some space -->
+<p>&nbsp;</p>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigahidjrikaaa&theme=monokai" alt="infinicus" />
 </div>

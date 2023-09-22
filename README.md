@@ -11,11 +11,9 @@
 
 <!-- Centered List -->
 <div align="center" text-align="center">
-<p align="center">
-  👀 I’m interested in Capture the Flag and Robotics &nbsp;
-  🌱 I’m currently learning Cyber Security &nbsp;
-  📫 You can reach me through my linkedin @gigahidjrikaaa &nbsp;
-</p>
+  <p> 👀 I’m interested in Capture the Flag and Robotics </p>
+  <p>🌱 I’m currently learning Cyber Security </p>
+  <p>📫 You can reach me through my linkedin @gigahidjrikaaa &nbsp;</p>
 </div>
 
 <div align="center">

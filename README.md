@@ -4,17 +4,18 @@
   </a>
 </p>
 
-
-
 <h1 align="center">Hi 👋, I'm Giga!</h1>
 <h3 align="center">A soon-to-be Information Engineer from Indonesia.</h3>
 
-<!-- Centered List -->
+<!-- Centered About Me -->
 <div align="center" text-align="center">
   <p> 👀 I’m interested in Capture the Flag and Robotics </p>
   <p>🌱 I’m currently learning Cyber Security </p>
-  <p>📫 You can reach me through my linkedin @gigahidjrikaaa &nbsp;</p>
+  <p>📫 You can reach me through my linkedin @gigahidjrikaaa</p>
 </div>
+
+<!-- Give some space -->
+<p>&nbsp;</p>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gigahidjrikaaa&theme=onedark&margin-w=15&margin-h=15&column=7" alt="infinicus" />

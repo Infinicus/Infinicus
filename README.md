@@ -10,11 +10,11 @@
 <h3 align="center">A soon-to-be Information Engineer from Indonesia.</h3>
 
 <!-- Centered List -->
-<list align="center">
-  <li>👀 I’m interested in Capture the Flag and Robotics</li>
-  <li>🌱 I’m currently learning Cyber Security</li>
-  <li>📫 You can reach me through my linkedin @gigahidjrikaaa</li>
-</list>
+<div align="center" text-align="center">
+  👀 I’m interested in Capture the Flag and Robotics
+  🌱 I’m currently learning Cyber Security
+  📫 You can reach me through my linkedin @gigahidjrikaaa
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gigahidjrikaaa&theme=onedark&margin-w=15&margin-h=15&column=7" alt="infinicus" />

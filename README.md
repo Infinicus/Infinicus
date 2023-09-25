@@ -45,17 +45,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gigahidjrikaaa&show_icons=true&locale=en&layout=compact" alt="infinicus" />
 </div>
 
-<h2 align="left">My LeetCode Stats</h2>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gigahidjrikaaa&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<div align="center">
+  <h2 align="left">My LeetCode Stats</h2>
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gigahidjrikaaa&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</div>
 
 ---
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gigahidjrikaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h3 align="left">Connect with me:</h3>
+  <a href="https://linkedin.com/in/gigahidjrikaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>
+</div?
 
 <img align="left" src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
 <img align="center" alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gigahidjrikaaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>

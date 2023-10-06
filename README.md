@@ -50,6 +50,7 @@
 <div align="center">
   <h2>My LeetCode Stats</h2>
 </div>
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=gigahidjrikaaa&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---

@@ -9,8 +9,9 @@
 
 <!-- Centered About Me -->
 <div align="center" text-align="center">
-  <p> 👀 I’m interested in Capture the Flag and Robotics </p>
+  <p>👀 I’m interested in Capture the Flag and Robotics </p>
   <p>🌱 I’m currently learning Cyber Security </p>
+  <p>👨‍💻 Although, you'll see that I'm some sort of a generalist.</p>
   <p>📫 You can reach me through my linkedin @gigahidjrikaaa</p>
 </div>
 
@@ -58,12 +59,16 @@
 
 ---
 
-<h3>Connect with me:</h3>
-<a href="https://linkedin.com/in/gigahidjrikaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
-<br>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gigahidjrikaaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<div align="center" display="flex">
+  <h3>Contact me/connect with me through:</h3>
+  <a href="https://linkedin.com/in/gigahidjrikaaa" target="blank" margin="100px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gigahidjrikaaa" height="30" width="40" /></a>
+  <br>
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=infinicus&label=Profile%20views&color=0e75b6&style=flat" alt="infinicus" />
+  <br>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/gigahidjrikaaa?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+</div>
 <!---
 Infinicus/Infinicus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
